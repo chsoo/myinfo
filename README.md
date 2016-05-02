@@ -4,8 +4,8 @@
 
 * [Who am I?](#Who am I?)
 * [Skills](#Skills)
-* [career](#career)
-* [interests](#interest)
+* [Career](#career)
+* [Interests](#interest)
 * [Contact](#Contact)
 
 ## <a name="Who am I?"></a>Who am I?
@@ -25,7 +25,7 @@
 * c,c++,java language
 
 
-## <a name="career"></a>career
+## <a name="career"></a>Career
 | 기간  | 내용 |
 | :---: | :---: |
 | 2014.6 | 알바몬송 장려상 |
@@ -33,7 +33,7 @@
 
 
 
-## <a name="interest"></a>interests
+## <a name="interest"></a>Interests
 android 
 web Development(Jsp,ruby)
 
