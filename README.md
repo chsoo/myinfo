@@ -9,7 +9,7 @@
 
 ## <a name="Who am I?"></a>Who am I?
 * name : Kim Yi Jun
-![Cover](http://i.imgur.com/O7FA0du.jpg?1)
+![Cover](http://i.imgur.com/O7FA0du.jpg?2)
 * age : 1991.12.26
 * address : Sudong-myeon, Namyangju-si, Gyeonggi-do, Korea
 * etc..
