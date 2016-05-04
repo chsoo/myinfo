@@ -35,7 +35,7 @@
 
 ## <a name="interest"></a>Interests
 android 
-web Development(Jsp,ruby)
+web Development(Jsp,Ruby)
 
 
 
